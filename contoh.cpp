@@ -37,5 +37,11 @@ public:
     {
         return 3.14 * r * r;
     }
-
 };
+
+int main()
+{
+    PersegiPanjang objekPP; // membuat objek
+    Lingkaran ol;
+    
+}
