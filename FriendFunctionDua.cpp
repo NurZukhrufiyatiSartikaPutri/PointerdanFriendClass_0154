@@ -28,5 +28,6 @@ int main()
 {
     manusia budi;
     pelajar pbudi;
-    mhs.showNilaiPelajar(pbudi)
+    budi.showNilaiPelajar(pbudi);
+    return 0;
 };
