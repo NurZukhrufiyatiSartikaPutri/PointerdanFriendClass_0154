@@ -30,7 +30,12 @@ public:
     void input()
     {
         cout << "Masukkan jari-jari : ";
-        
+        cin >> jarijari;
+    }
+
+    int LuasLingkaran (int r)
+    {
+        return 3.14 * r * r;
     }
 
 };
